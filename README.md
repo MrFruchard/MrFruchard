@@ -1,7 +1,3 @@
-Voici un exemple de README pour te présenter :
-
----
-
 # Romain Savary
 
 ### Développeur FullStack en Formation
