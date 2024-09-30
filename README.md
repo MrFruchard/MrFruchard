@@ -4,7 +4,7 @@ Voici un exemple de README pour te présenter :
 
 # Romain Savary
 
-### Développeur Junior en Formation
+### Développeur FullStack en Formation
 
 Bonjour ! Je m'appelle Romain Savary. Je suis actuellement en formation pour devenir développeur junior. Voici un aperçu de mon parcours et de mes compétences :
 
