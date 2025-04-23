@@ -1,35 +1,89 @@
 # Romain Savary
+## Développeur FullStack en Formation | Management & Cybersécurité
 
-### Développeur FullStack en Formation
+![Badge Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Badge Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Badge Management](https://img.shields.io/badge/Management-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Badge Cybersécurité](https://img.shields.io/badge/Cybersécurité-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Bonjour ! Je m'appelle Romain Savary. Je suis actuellement en formation pour devenir développeur junior. Voici un aperçu de mon parcours et de mes compétences :
+<div align="center" style="margin: 20px 0">
+  <img src="https://skillicons.dev/icons?i=go,js,react,nextjs,html,css,git,github,docker" alt="Technologies" height="30" />
+</div>
 
-## À propos de moi
+## 👨‍💻 À propos de moi
 
-Je suis un développeur junior en formation avec un parcours atypique. J'ai commencé mes études dans le commerce où j'ai obtenu un master en management d'affaires, avec une spécialité en direction d'entreprise. J'adore travailler en équipe et j'ai un fort intérêt pour le management en général ainsi que pour le domaine de la tech.
+Bienvenue sur mon profil GitHub ! Je suis **Romain Savary**, un développeur junior en formation avec un parcours professionnel riche et diversifié. Mon background atypique combine expertise en management et passion pour la technologie :
 
-## Compétences
+- 🎓 **Formation académique** : Master en management d'affaires avec spécialisation en direction d'entreprise
+- 💼 **Expérience professionnelle** : Chef de rayon chez BUT (meubles 2023-2024, électroménager 2020-2023)
+- 🔄 **Transition professionnelle** : En reconversion vers le développement informatique
+- 🚀 **Objectif** : Devenir un développeur FullStack avec une expertise en cybersécurité
+- 🤝 **Approche** : Application de compétences managériales dans les projets tech
 
-- **Langages de programmation :** Je commence à maîtriser Go (Golang).
-- **Compétences en management :** Grâce à mon master en management d'affaires, j'ai acquis de solides compétences en gestion d'équipe et en direction d'entreprise.
-- **Intérêts supplémentaires :** Cyber sécurité et data.
+Ce qui me distingue est ma capacité à combiner compétences techniques et expérience de management, me permettant d'avoir une vision globale des projets et de faciliter la communication entre équipes techniques et non-techniques.
 
-## Projets
+## 🛠️ Compétences techniques
 
-J'ai réalisé plusieurs projets intéressants que je vais bientôt uploader sur GitHub, notamment :
-- **ASCII Art**
-- **Groupie Tracker**
+### Développement
+- **Go (Golang)** : Maîtrise progressive du langage, développement backend, API REST
+- **JavaScript** : Développement frontend, manipulation du DOM, ES6+
+- **Next.js** : Création d'applications React avec rendu côté serveur
+- **Web** : HTML, CSS, React
+- **Outils de développement** : Git, GitHub, environnements de développement intégrés
 
-## Objectifs
+### Management & Soft Skills
+- **Gestion d'équipe** : Expérience pratique en tant que chef de rayon chez BUT
+- **Leadership** : Animation d'équipe, résolution de problèmes, prise de décision
+- **Communication** : Pont entre experts techniques et non-techniques
+- **Organisation** : Planification efficace, gestion des priorités
 
-J'ai pour objectif de m'orienter vers le domaine de la cybersécurité. J'ai également un intérêt pour la data.
+### Domaines d'intérêt
+- **Cybersécurité** : Sécurisation des applications, tests d'intrusion, analyse de vulnérabilités, bonnes pratiques OWASP
+- **Data Science** : Analyse de données, visualisation, bases de l'intelligence artificielle
 
-## Contact
+## 🚀 Projets
 
-- [LinkedIn](https://www.linkedin.com/in/romain-savary1/)
+### Projets réalisés
+- **Portfolio** : Site web personnel présentant mon parcours et mes projets
+  - _Compétences utilisées_ : Next.js, React, CSS moderne
+  
+- **Chat App** : Application de messagerie en temps réel
+  - _Compétences utilisées_ : JavaScript, WebSockets, interface utilisateur responsive
 
-N'hésitez pas à me contacter pour toute opportunité ou collaboration !
+- **ASCII Art** : Outil de conversion d'images en art ASCII développé en Go
+  - _Compétences utilisées_ : Go, manipulation de chaînes, algorithmes de conversion d'images
+
+- **Groupie Tracker** : Application web de visualisation de données musicales
+  - _Compétences utilisées_ : Go, API REST, intégration frontend/backend, visualisation de données
+
+### Projets en cours
+- **Outil d'analyse de sécurité** : Développement d'un scanner de vulnérabilités basique
+- **Projet d'apprentissage en cybersécurité** : CTF (Capture The Flag) et exercices pratiques
+
+## 📚 Formation continue
+
+Je reste constamment à jour sur les dernières technologies à travers :
+- 📖 Livres techniques et ressources en ligne
+- 🎓 Formations spécialisées en développement et cybersécurité
+- 👥 Participation à des communautés de développeurs
+- 🔍 Veille technologique régulière
+
+## 🎯 Objectifs professionnels
+
+- Court terme : Approfondir mes connaissances en cybersécurité et continuer à renforcer mes compétences en Go et JavaScript
+- Moyen terme : Obtenir des certifications en sécurité informatique et développer des projets intégrant des bonnes pratiques de sécurité
+- Long terme : Utiliser mon expérience de management comme levier pour évoluer vers des postes alliant expertise technique en cybersécurité et responsabilités d'équipe
+
+## 📫 Contact & Réseaux
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/romain-savary) - Connectons-nous professionnellement !
+- 📧 Email : [romain.savary2@gmail.com]
+
+## 💭 Philosophie professionnelle
+
+> "Un bon système de sécurité est comme une équipe bien managée : chaque élément a son rôle, sa responsabilité, et tous travaillent ensemble pour protéger l'ensemble."
 
 ---
 
-N'hésite pas à personnaliser davantage ce README selon tes préférences.
+⭐ N'hésitez pas à me contacter pour toute opportunité de collaboration ou d'échange sur des projets innovants !
