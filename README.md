@@ -77,7 +77,7 @@ Je reste constamment à jour sur les dernières technologies à travers :
 
 ## 📫 Contact & Réseaux
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/romain-savary) - Connectons-nous professionnellement !
+- 💼 [LinkedIn](https://www.linkedin.com/in/romain-savary1) - Connectons-nous professionnellement !
 - 📧 Email : [romain.savary2@gmail.com]
 
 ## 💭 Philosophie professionnelle
