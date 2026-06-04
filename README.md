@@ -1,89 +1,107 @@
 # Romain Savary
-## Développeur FullStack en Formation | Management & Cybersécurité
+## Développeur FullStack | Chef de Projet IT | Management & Tech
 
 ![Badge Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Badge Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Badge Management](https://img.shields.io/badge/Management-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
-![Badge Cybersécurité](https://img.shields.io/badge/Cybersécurité-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Badge TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Badge Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Badge PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Badge Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center" style="margin: 20px 0">
-  <img src="https://skillicons.dev/icons?i=go,js,react,nextjs,html,css,git,github,docker" alt="Technologies" height="30" />
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,postgres,docker,linux,git,github" alt="Technologies" height="30" />
 </div>
-
-## 👨‍💻 À propos de moi
-
-Bienvenue sur mon profil GitHub ! Je suis **Romain Savary**, un développeur junior en formation avec un parcours professionnel riche et diversifié. Mon background atypique combine expertise en management et passion pour la technologie :
-
-- 🎓 **Formation académique** : Master en management d'affaires avec spécialisation en direction d'entreprise
-- 💼 **Expérience professionnelle** : Chef de rayon chez BUT (meubles 2023-2024, électroménager 2020-2023)
-- 🔄 **Transition professionnelle** : En reconversion vers le développement informatique
-- 🚀 **Objectif** : Devenir un développeur FullStack avec une expertise en cybersécurité
-- 🤝 **Approche** : Application de compétences managériales dans les projets tech
-
-Ce qui me distingue est ma capacité à combiner compétences techniques et expérience de management, me permettant d'avoir une vision globale des projets et de faciliter la communication entre équipes techniques et non-techniques.
-
-## 🛠️ Compétences techniques
-
-### Développement
-- **Go (Golang)** : Maîtrise progressive du langage, développement backend, API REST
-- **JavaScript** : Développement frontend, manipulation du DOM, ES6+
-- **Next.js** : Création d'applications React avec rendu côté serveur
-- **Web** : HTML, CSS, React
-- **Outils de développement** : Git, GitHub, environnements de développement intégrés
-
-### Management & Soft Skills
-- **Gestion d'équipe** : Expérience pratique en tant que chef de rayon chez BUT
-- **Leadership** : Animation d'équipe, résolution de problèmes, prise de décision
-- **Communication** : Pont entre experts techniques et non-techniques
-- **Organisation** : Planification efficace, gestion des priorités
-
-### Domaines d'intérêt
-- **Cybersécurité** : Sécurisation des applications, tests d'intrusion, analyse de vulnérabilités, bonnes pratiques OWASP
-- **Data Science** : Analyse de données, visualisation, bases de l'intelligence artificielle
-
-## 🚀 Projets
-
-### Projets réalisés
-- **Portfolio** : Site web personnel présentant mon parcours et mes projets
-  - _Compétences utilisées_ : Next.js, React, CSS moderne
-  
-- **Chat App** : Application de messagerie en temps réel
-  - _Compétences utilisées_ : JavaScript, WebSockets, interface utilisateur responsive
-
-- **ASCII Art** : Outil de conversion d'images en art ASCII développé en Go
-  - _Compétences utilisées_ : Go, manipulation de chaînes, algorithmes de conversion d'images
-
-- **Groupie Tracker** : Application web de visualisation de données musicales
-  - _Compétences utilisées_ : Go, API REST, intégration frontend/backend, visualisation de données
-
-### Projets en cours
-- **Outil d'analyse de sécurité** : Développement d'un scanner de vulnérabilités basique
-- **Projet d'apprentissage en cybersécurité** : CTF (Capture The Flag) et exercices pratiques
-
-## 📚 Formation continue
-
-Je reste constamment à jour sur les dernières technologies à travers :
-- 📖 Livres techniques et ressources en ligne
-- 🎓 Formations spécialisées en développement et cybersécurité
-- 👥 Participation à des communautés de développeurs
-- 🔍 Veille technologique régulière
-
-## 🎯 Objectifs professionnels
-
-- Court terme : Approfondir mes connaissances en cybersécurité et continuer à renforcer mes compétences en Go et JavaScript
-- Moyen terme : Obtenir des certifications en sécurité informatique et développer des projets intégrant des bonnes pratiques de sécurité
-- Long terme : Utiliser mon expérience de management comme levier pour évoluer vers des postes alliant expertise technique en cybersécurité et responsabilités d'équipe
-
-## 📫 Contact & Réseaux
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/romain-savary1) - Connectons-nous professionnellement !
-- 📧 Email : [romain.savary2@gmail.com]
-
-## 💭 Philosophie professionnelle
-
-> "Un bon système de sécurité est comme une équipe bien managée : chaque élément a son rôle, sa responsabilité, et tous travaillent ensemble pour protéger l'ensemble."
 
 ---
 
-⭐ N'hésitez pas à me contacter pour toute opportunité de collaboration ou d'échange sur des projets innovants !
+## 👨‍💻 À propos de moi
+
+Je suis **Romain Savary**, développeur fullstack en fin de certification **CDA (Concepteur Développeur d'Applications, Bac+3)** à Zone01 Normandie — Rouen.
+
+Mon profil est atypique : 10 ans de management opérationnel dans la grande distribution (Carrefour, BUT — équipes jusqu'à 15 personnes, budgets jusqu'à 4M€) avant une reconversion technique complète. Cette expérience me donne une vision produit et une capacité à faire le pont entre enjeux business et technique.
+
+À partir de septembre 2026, je rejoins **Klian** (insurtech) en alternance **Chef de Projet IT** (Bac+5), sur une stack PHP/Laravel + Next.js.
+
+- 🎓 CDA Bac+3 — Zone01 Normandie (2024–2026)
+- 🎓 Bac+5 Management — PIGIER / NEOMA Business School
+- 🌐 TOEIC 825
+- 🔜 Alternance Chef de Projet IT — Klian (sept. 2026)
+- 📍 Rouen, Normandie
+
+---
+
+## 🛠️ Stack technique
+
+### Langages & Frameworks
+- **Go** : backend, API REST, CLI tools, WebSockets
+- **TypeScript / JavaScript** : frontend, Node.js, ES2022+
+- **Next.js 15** : App Router, SSR/RSC, Server Actions
+- **React** : composants, hooks, état global
+- **PHP / Laravel** : en cours d'apprentissage (stack Klian)
+
+### Infrastructure & Outils
+- **PostgreSQL** : conception MCD/MLD, requêtes complexes, indexes partiels
+- **Docker** : containerisation, Docker Compose, environnements multi-services
+- **GitHub Actions** : CI/CD pipelines
+- **Linux** : environnement de travail quotidien (VS Code + Claude Code)
+
+### Pratiques
+- Architecture REST & WebSocket temps réel
+- JWT, sécurité applicative, bonnes pratiques OWASP
+- Méthodologie de conception : MCD → MLD → MPD, normalisation 3NF
+- Tests unitaires & d'intégration
+
+---
+
+## 🚀 Projets
+
+### [Pulse](https://github.com/MrFruchard) — Réseau social à fenêtre temporelle synchronisée
+> **Stack** : Go · Chi · sqlx · Next.js 15 · PostgreSQL · WebSockets · Docker · GitHub Actions
+
+Réseau social avec une contrainte unique : une heure active par jour, synchronisée pour tous les utilisateurs. Projet principal de certification CDA.
+
+- Architecture backend Go (API REST + WebSocket temps réel)
+- Authentification JWT, gestion des sessions
+- Feed chronologique, système de streaks, règles de confidentialité
+- CI/CD via GitHub Actions, containerisation complète Docker
+- Dossier de conception complet : MCD, MLD, MPD, cahier des charges
+
+---
+
+### [WorldWatch](https://github.com/MrFruchard) — Dashboard d'actualité mondiale interactif
+> **Stack** : Next.js · TypeScript · PostgreSQL · API intégrations
+
+Dashboard temps réel d'actualité mondiale avec interface interactive et recherche web intégrée. *(En développement actif)*
+
+---
+
+
+### Projets Zone01
+- **Groupie Tracker** : visualisation de données musicales (Go + API REST)
+- **ASCII Art** : convertisseur image → ASCII en Go
+- **Bomberman-DOM** : jeu multijoueur en JavaScript natif (WebSockets)
+- **wget CLI clone** : implémentation en Go
+
+---
+
+## 💼 Expérience professionnelle
+
+| Période | Poste | Entreprise |
+|---------|-------|-----------|
+| 2026 → | Alternance Chef de Projet IT (Bac+5) | Klian (insurtech) |
+| 2024–2026 | Formation CDA + projets fullstack | Zone01 Normandie |
+| 2020–2024 | Chef de rayon (électroménager → meubles) | BUT |
+| Antérieur | Management opérationnel | Carrefour |
+
+Micro-entreprise active (NAF 6201Z) : développement fullstack, intégration IA, conseil cybersécurité pour PME.
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/romain-savary1)
+- 📧 romain.savary2@gmail.com
+- 🐙 [github.com/MrFruchard](https://github.com/MrFruchard)
+
+---
+
+> *"Dix ans à piloter des équipes et des budgets — maintenant j'applique la même rigueur au code."*
